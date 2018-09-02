@@ -1,0 +1,21 @@
+{
+  "name": "devopstraining_nodeapp",
+  "version": "1.0.0",
+  "description": "Sample web server for devops retraining",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalettu/devopstraining_nodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalettu/devopstraining_nodeapp/issues"
+  },
+   "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
